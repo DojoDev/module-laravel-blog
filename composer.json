@@ -1,0 +1,15 @@
+{
+    "name": "raffaelnunes/blog",
+    "description": "Module test of the blog in Laravel",
+    "authors": [
+        {
+            "name": "Raffael Nunes",
+            "email": "hello@raffaelnunes.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DojoDev\\Blog\\": ""
+        }
+    }
+}
